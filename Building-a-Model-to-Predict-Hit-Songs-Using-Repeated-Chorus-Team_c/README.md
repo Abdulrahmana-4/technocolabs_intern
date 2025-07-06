@@ -61,7 +61,7 @@ Each member choose a model of the two to build and the leaders choose the best m
 
 The team who worked on this was:<br>
 •	Ahmed Sallam (lead -- Roaming on every task)<br>
-•	Abdulrahman Ahmed(co-lead -- Roaming on every task)<br>
+•	Abdulrahman Ahmed(lead -- Roaming on every task)<br>
 •	AbdulRaouf Monir (AWS -- Roaming on front and backend)<br>
 •	Mahmoud Khaled (Backend)<br>
 •	Paula Samir (Backend)<br>
